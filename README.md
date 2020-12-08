@@ -7,3 +7,4 @@ For this task the hyperas optimizer was used.
 The used model structure and initial parameters were chosen by basic principles and experiences.
 
 Unfortunately, the Colab collapses during the optimization. Therefore, the necessary 100 evaulation was not completed (only 52).
+Tried the solve the problem, but cannot locate it. Tried different parameter numbers, layers, none of it helped the.
